@@ -37,11 +37,9 @@ Add the following line:
 
 
 ## Usage
-
 Run the agent:
   ```sh
 python main.py
-
 The agent will prompt you for input and respond accordingly. To exit, type exit, bye, or close.
 
 ## Tools
