@@ -1,4 +1,4 @@
-LLM Agent
+** LLM Agent **
 
 This is an interactive AI agent powered by OpenAI's GPT models. The agent can process user input and determine whether to respond directly or invoke tools for specific tasks like fetching the current time and evaluating mathematical expressions.
 
