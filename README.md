@@ -32,7 +32,8 @@ This is an interactive AI agent powered by OpenAI's GPT models. The agent can pr
 3. **Set up your OpenAI API key:**
    Create a .env file in the project directory.
    Add the following line:
-       ```sh
+
+        ```sh
    OPENAI_API_KEY=your_openai_api_key_here
 
 ## Usage
@@ -51,7 +52,7 @@ The agent will prompt you for input and respond accordingly. To exit, type exit,
 
 **🧮 Calculator Tool**
 1. Evaluates simple mathematical expressions.
-2. Supports operations like addition, subtraction, multiplication, division, square root, cube root, and trigonometric functions.
-3.Ensures safe execution using restricted evaluation.
+2. Supports operations like addition, subtraction, multiplication, division, square root, and cube root
+3. Ensures safe execution using restricted evaluation.
 
 
