@@ -6,6 +6,8 @@ from langchain_openai import ChatOpenAI
 from langchain.tools import tool
 from dotenv import load_dotenv
 
+# Load .env file
+load_dotenv()
 
 
 # Define custom tool using @tool decorator
