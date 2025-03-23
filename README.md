@@ -30,11 +30,11 @@ This is an interactive AI agent powered by OpenAI's GPT models. The agent can pr
     ```sh
    pip install -r requirements.txt
 3. **Set up your OpenAI API key:**
-   Create a .env file in the project directory.
-
-   Add the following line:
-       ```sh
+Create a `.env` file in the project directory.
+Add the following line:
+   ```sh
    OPENAI_API_KEY=your_openai_api_key_here
+
 
 ## Usage
 
