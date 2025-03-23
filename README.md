@@ -4,7 +4,7 @@ This is an interactive AI agent powered by OpenAI's GPT models. The agent can pr
 
 Features
 
-Interactive chatbot interface.
+Interactive chatbot interface
 
 Supports tools for:
 
@@ -59,13 +59,13 @@ The agent will prompt you for input and respond accordingly. To exit, type exit,
 
 Tools
 
-Time Tool
+⏰ Time Tool
 
 Fetches the current time for a given city timezone (e.g., Asia/Tokyo, America/New_York).
 
 Returns the formatted current time.
 
-Calculator Tool
+🧮 Calculator Tool
 
 Evaluates simple mathematical expressions.
 
@@ -81,5 +81,8 @@ You: What time is it in Europe/London?
 Agent: The current time is 2025-03-23 14:30:00 GMT+0000.
 
 Mathematical calculation:
+
 You: What is the square root of 64?
 Agent: The result of 'sqrt(64)' is 8.
+
+Contributing
