@@ -46,11 +46,11 @@ The agent will prompt you for input and respond accordingly. To exit, type exit,
 
 ## Tools
 
-** Time Tool**
+**Time Tool**
 1. Fetches the current time for a given city timezone (e.g., Asia/Tokyo, America/New_York).
 2. Returns the formatted current time.
 
-** Calculator Tool**
+**Calculator Tool**
 1. Evaluates simple mathematical expressions.
 2. Supports operations like addition, subtraction, multiplication, division, square root, and cube root
 3. Ensures safe execution using restricted evaluation.
