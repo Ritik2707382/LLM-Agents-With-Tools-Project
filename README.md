@@ -46,11 +46,11 @@ The agent will prompt you for input and respond accordingly. To exit, type exit,
 
 ## Tools
 
-**⏰ Time Tool**
+** Time Tool**
 1. Fetches the current time for a given city timezone (e.g., Asia/Tokyo, America/New_York).
 2. Returns the formatted current time.
 
-**🧮 Calculator Tool**
+** Calculator Tool**
 1. Evaluates simple mathematical expressions.
 2. Supports operations like addition, subtraction, multiplication, division, square root, and cube root
 3. Ensures safe execution using restricted evaluation.
@@ -59,11 +59,11 @@ The agent will prompt you for input and respond accordingly. To exit, type exit,
 
 ```bash
 You: What time is it in London?
-Agent: 🕒 The current time in Europe/London is 15:42:10.
+Agent: The current time in Europe/London is 15:42:10.
 
 You: Calculate 5 * (3 + 2)
-Agent: 🧮 The result is 25.
+Agent: The result is 25.
 
 You: bye
-Agent: 👋 Goodbye! Have a great day!
+Agent: Goodbye! Have a great day!
 ```
